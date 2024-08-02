@@ -2,7 +2,7 @@
 # 2303A51097
 # D.Bharath Kumar
 # Artificial Intelligence and Machine Learning lab Instruction Sheets
-1. [Lab 01](): Introduction to python Libraries-Numpy
+1. [Lab 01](https://github.com/2303A51097/AIML-2025/blob/main/AIML_A1.pdf): Introduction to python Libraries-Numpy
 1. [Lab 02](): Introduction to python Libraries-Numpy
 1. [Lab 03](): Introduction to python Libraries-Numpy
 1. [Lab 04](): Introduction to python Libraries-Numpy
